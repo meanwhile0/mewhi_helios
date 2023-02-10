@@ -3,8 +3,8 @@
 A series of ReShade presets for FFXIV, vaguely inspired by the Helios-44m 58mm f/2 camera lens.
 
 ## Previews
-![Preview 1](https://files.mewhi.house/mqek2ob1szq4.png)
-![Preview 2](https://files.mewhi.house/y731wnpdp82y.png)
+![Preview 1](https://files.mewhi.house/44ipttna9xe2.png)
+![Preview 2](https://files.mewhi.house/cvcy5r5ll9ac.png)
 
 ## Usage
 All of these presets are configured to use manual focus in CinematicDOF, because that's what I prefer working with. I highly advise messing around with the DOF and ReGrade settings to adapt these presets to the shot you're taking, because they're not a one-size-fits-all.
