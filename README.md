@@ -22,7 +22,7 @@ The shaders used are all available from a migrated `gshade-shaders` folder, howe
 
 **These presets also use Pascal Gilcher's RTGI, Solaris and ReGrade shaders.** These shaders are currently not available for free. [Here is a link to their Patreon so you can attain these shaders yourself.](https://www.patreon.com/mcflypg/) I won't be making alternatives that don't use these.
 
-###Shaders used:
+### Shaders used:
 - KeepUI.fx (Sourced from `gshade-shaders`, developed by [seri14](https://github.com/seri14))
 - [qUINT_motionvectors.fx](https://gist.github.com/martymcmodding/69c775f844124ec2c71c37541801c053)
 - [FogRemoval.fx](https://github.com/LordOfLunacy/Insane-Shaders/tree/master/Shaders/OldShaders)
